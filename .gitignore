@@ -1,2 +1,4 @@
 Data/raw_data
 venv
+Data/processed/X.npy
+Data
