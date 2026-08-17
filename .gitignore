@@ -2,3 +2,5 @@ Data/raw_data
 venv
 Data/processed/X.npy
 Data
+Task-Based-Stress-Detection
+.DS_store
